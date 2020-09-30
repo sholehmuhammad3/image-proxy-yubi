@@ -23,6 +23,5 @@
   "bugs": {
     "url": "https://github.com/sholehmuhammad3/image-proxy-yubi/issues"
   },
-  "homepage": "https://github.com/sholehmuhammad3/image-proxy-yubi#readme",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "homepage": "https://github.com/sholehmuhammad3/image-proxy-yubi#readme"
 }
