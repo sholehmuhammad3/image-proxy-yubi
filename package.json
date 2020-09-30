@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "create-hmac": "^1.1.7"
+  },
+  "name": "image-proxy-yubi",
+  "version": "1.0.0",
+  "description": "Image Proxy Yubi",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sholeh.sholeh.muhammad@gmail.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sholehmuhammad3/image-proxy-yubi.git"
+  },
+  "keywords": [
+    "Image",
+    "Proxy"
+  ],
+  "bugs": {
+    "url": "https://github.com/sholehmuhammad3/image-proxy-yubi/issues"
+  },
+  "homepage": "https://github.com/sholehmuhammad3/image-proxy-yubi#readme"
+}
